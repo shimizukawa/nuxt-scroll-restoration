@@ -4,6 +4,7 @@
 [![License][license-src]][license-href]
 
 > ブラウザバック時やリロード時にスクロール位置を復元するNuxt 3モジュール
+> 元ソース https://github.com/janpaul123/delayed-scroll-restoration-polyfill
 
 ## ライセンス
 
@@ -12,7 +13,7 @@
 <!-- リンク -->
 [npm-version-src]: https://img.shields.io/npm/v/nuxt-scroll-restoration/latest.svg?style=flat&colorA=18181B&colorB=28CF8D
 [npm-version-href]: https://npmjs.com/package/nuxt-scroll-restoration
-[license-src]: https://img.shields.io/npm/l/nuxt-scroll-restoration.svg?style=flat&colorA=18181B&colorB=28CF8D
+[license-src]: https://img.shields.io/npm/l/nuxt-scroll-restoration
 [license-href]: https://npmjs.com/package/nuxt-scroll-restoration
 
 ## 機能

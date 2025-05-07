@@ -5,6 +5,7 @@ nuxt-scroll-restoration
 [![License][license-src]][license-href]
 
 > A Nuxt 3 module that restores scroll position during browser back navigation and page reloads
+> based upon https://github.com/janpaul123/delayed-scroll-restoration-polyfill
 
 日本語 [README-ja.md](README-ja.md)
 
@@ -15,7 +16,7 @@ nuxt-scroll-restoration
 <!-- Links -->
 [npm-version-src]: https://img.shields.io/npm/v/nuxt-scroll-restoration/latest.svg?style=flat&colorA=18181B&colorB=28CF8D
 [npm-version-href]: https://npmjs.com/package/nuxt-scroll-restoration
-[license-src]: https://img.shields.io/npm/l/nuxt-scroll-restoration.svg?style=flat&colorA=18181B&colorB=28CF8D
+[license-src]: https://img.shields.io/npm/l/nuxt-scroll-restoration
 [license-href]: https://npmjs.com/package/nuxt-scroll-restoration
 
 ## Features

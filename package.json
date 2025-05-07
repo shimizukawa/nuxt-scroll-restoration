@@ -1,6 +1,6 @@
 {
   "name": "nuxt-scroll-restoration",
-  "version": "2025.05.06",
+  "version": "2025.05.07",
   "description": "A Nuxt 3 module that restores scroll position during browser back navigation and page reloads",
   "repository": {
     "type": "git",
