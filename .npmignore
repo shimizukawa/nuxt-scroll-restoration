@@ -1,0 +1,27 @@
+# ソースコード（ビルド済みのコードのみ含める）
+src
+test
+playground
+
+# 開発用設定ファイル
+.eslintrc
+.gitignore
+*.config.js
+tsconfig.json
+jest.config.*
+
+# ログファイル
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# エディタの設定
+.editorconfig
+.vscode
+
+# ビルドディレクトリ
+node_modules
+coverage
+.nuxt
+.output
